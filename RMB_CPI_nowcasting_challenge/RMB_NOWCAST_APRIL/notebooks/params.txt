@@ -1,0 +1,1 @@
+max_depth=4, n_estimators=350, learning_rate=0.17, alpha=0, objective='reg:squarederror' for xgb

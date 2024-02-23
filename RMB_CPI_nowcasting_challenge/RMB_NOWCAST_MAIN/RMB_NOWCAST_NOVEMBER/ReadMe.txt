@@ -1,0 +1,2 @@
+ - to make the notebook work just extract the data folder and the notebook folder in one directory.
+ - all the packages used are the recent version of the packeges.
